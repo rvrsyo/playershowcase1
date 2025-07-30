@@ -9,3 +9,5 @@ R1 - R5 right
 
 .teamnamered - colors
 .teamnameblue - colors
+
+in script.js file - change line 28 for map name
